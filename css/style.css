@@ -1,0 +1,164 @@
+body {
+  margin: 0 auto;
+}
+.head {
+  margin-left: 100px;
+  margin-top: 100px;
+  color: rgb(119, 7, 72);
+}
+p {
+  float: left;
+  margin-left: 100px;
+  color: rgb(119, 7, 72);
+}
+#content {
+  display: grid;
+  max-width: 310px;
+  max-height: 10px;
+  margin: 0 auto;
+  grid-template-rows: 30px 30px 30px;
+  grid-gap: 10px;
+  margin-top: -70px;
+  margin-left: 700px;
+}
+#content div {
+  background: #f7efef;
+  border-radius: 7px;
+}
+.one {
+  margin-left: -40px;
+}
+
+.total {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+.rated {
+  margin-top: -19px;
+  margin-left: 160px;
+}
+.two {
+  margin-left: -25px;
+  margin-right: -30px;
+}
+.orange {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+
+.five {
+  margin-top: -19px;
+  margin-left: 160px;
+}
+.three {
+  margin-left: 10px;
+  margin-right: -50px;
+}
+
+.pot {
+  margin-top: 5px;
+  margin-left: 15px;
+}
+#place {
+  margin-top: 180px;
+  display: grid;
+  max-width: 790px;
+  height: 200px;
+  grid-gap: 15px;
+  grid-template-columns: 40% 40% 40%;
+  margin-left: 100px;
+}
+#place div {
+  background: rgb(119, 7, 72);
+  border-radius: 7px;
+}
+.tip {
+  margin-top: ;
+}
+.pop {
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
+.top {
+  margin-top: 25px;
+  margin-bottom: -25px;
+}
+.crop {
+  border-radius: 100%;
+  height: 35px;
+  margin: 35px;
+  display: flex;
+  margin-left: 18px;
+}
+.cutin {
+  color: #f7efef;
+  margin-top: -69px;
+  margin-left: 70px;
+  font-size: small;
+}
+
+.buyer {
+  color: rgb(241, 15, 83);
+  margin-top: -56px;
+  font-size: small;
+  margin-left: 70px;
+}
+.need {
+  color: #f7efef;
+  margin-left: 20px;
+  margin-top: -5px;
+  font-size: medium;
+  test-align: center;
+}
+.buna {
+  border-radius: 100%;
+  height: 35px;
+  margin: 35px;
+  margin-left: 30px;
+}
+
+.irene {
+  color: #f7efef;
+  font-size: small;
+  margin-left: 78px;
+  margin-top: -70px;
+}
+.robert {
+  color: rgb(182, 29, 37);
+  margin-top: -13px;
+  margin-left: 78px;
+  font-size: small;
+}
+
+.complete {
+  color: #f7efef;
+  margin-left: 29px;
+  margin-top: 10px;
+}
+
+.anne {
+  height: 35px;
+  width: 35px;
+  border-radius: 100px;
+  margin-top: 35px;
+  margin-left: 25px;
+}
+
+.wallace {
+  color: #f7efef;
+  font-size: small;
+  margin-left: 75px;
+  margin-top: -33px;
+}
+
+.scan {
+  color: rgb(238, 29, 29);
+  font-size: small;
+  margin-left: 75px;
+  margin-top: -11px;
+}
+
+.stand {
+  color: #f7efef;
+  margin-left: 24px;
+}
